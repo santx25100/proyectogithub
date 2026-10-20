@@ -1,2 +1,0 @@
-# proyectogithub
-mi primer proyecto
