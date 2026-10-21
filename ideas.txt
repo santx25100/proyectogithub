@@ -1,1 +1,6 @@
-Mi primera idea para un proyecto
+MIS IDEAS DE PROYECTOS
+
+1. Crear una página web.
+2. Crear una aplicación.
+3. Crear un sistema para la escuela.
+4. Aprender a programar en Python.
